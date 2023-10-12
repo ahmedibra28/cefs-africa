@@ -32,7 +32,7 @@ export default async function Page({
                 width={300}
                 height={300}
                 alt='Food Logo'
-                className='w-full h-[600px] rounded-2xl object-cover duration-700 hover:scale-105 '
+                className='w-full h-[600px] rounded-2xl object-cover duration-700 hover:scale-105'
               />
             </figure>
 

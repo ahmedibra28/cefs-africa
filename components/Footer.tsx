@@ -20,16 +20,20 @@ export default function Footer() {
             <h1 className='text-2xl font-bold mb-2'>Thematic Focus Area</h1>
             <ul>
               <li className='mb-2'>
-                <Link href='#'>Research</Link>
+                <Link href='/thematic-areas/research'>Research</Link>
               </li>
               <li className='mb-2'>
-                <Link href='#'>Academia</Link>
+                <Link href='/thematic-areas/academia'>Academia</Link>
               </li>
               <li className='mb-2'>
-                <Link href='#'>Capacity Development and Innovation</Link>
+                <Link href='/thematic-areas/cdi'>
+                  Capacity Development and Innovation
+                </Link>
               </li>
               <li>
-                <Link href='#'>Thematic Networking and Partnership</Link>
+                <Link href='/thematic-areas/tnp'>
+                  Thematic Networking and Partnership
+                </Link>
               </li>
             </ul>
           </div>
@@ -39,13 +43,17 @@ export default function Footer() {
             <h1 className='text-2xl font-bold mb-2'>Information Centre</h1>
             <ul>
               <li className='mb-2'>
-                <Link href='#'>Relevance, Aim and Objectives</Link>
+                <Link href='/about/aims-objectives'>
+                  Relevance, Aim and Objectives
+                </Link>
               </li>
               <li className='mb-2'>
-                <Link href='#'>Leadership & Governance</Link>
+                <Link href='/about/leadership-governance'>
+                  Leadership & Governance
+                </Link>
               </li>
               <li>
-                <Link href='#'>Partnerships</Link>
+                <Link href='/about/partnerships'>Partnerships</Link>
               </li>
             </ul>
           </div>
@@ -96,18 +104,34 @@ export default function Footer() {
         <div className='text-center'>
           <h3>{new Date().getFullYear()} CEFS. All Rights Reserved.</h3>
           <div>
-            <button className='btn btn-ghost'>
+            <a
+              href='https://facebook.com'
+              target='_blank'
+              className='btn btn-ghost'
+            >
               <FaFacebookSquare className='text-lg' />
-            </button>
-            <button className='btn btn-ghost'>
+            </a>
+            <a
+              href='https://twitter.com'
+              target='_blank'
+              className='btn btn-ghost'
+            >
               <FaTwitterSquare className='text-lg' />
-            </button>
-            <button className='btn btn-ghost'>
+            </a>
+            <a
+              href='https://linkedin.com'
+              target='_blank'
+              className='btn btn-ghost'
+            >
               <FaLinkedin className='text-lg' />
-            </button>
-            <button className='btn btn-ghost'>
+            </a>
+            <a
+              href='https://instagram.com'
+              target='_blank'
+              className='btn btn-ghost'
+            >
               <FaInstagramSquare className='text-lg' />
-            </button>
+            </a>
           </div>
         </div>
       </div>

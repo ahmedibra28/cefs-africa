@@ -54,18 +54,34 @@ export default function Navigation() {
       <div className='bg-primary text-white text-center p-1'>
         <h3>Centre of Excellence in Food Security Africa</h3>
         <div>
-          <button className='btn btn-ghost'>
+          <a
+            href='https://facebook.com'
+            target='_blank'
+            className='btn btn-ghost'
+          >
             <FaFacebookSquare className='text-lg' />
-          </button>
-          <button className='btn btn-ghost'>
+          </a>
+          <a
+            href='https://twitter.com'
+            target='_blank'
+            className='btn btn-ghost'
+          >
             <FaTwitterSquare className='text-lg' />
-          </button>
-          <button className='btn btn-ghost'>
+          </a>
+          <a
+            href='https://linkedin.com'
+            target='_blank'
+            className='btn btn-ghost'
+          >
             <FaLinkedin className='text-lg' />
-          </button>
-          <button className='btn btn-ghost'>
+          </a>
+          <a
+            href='https://instagram.com'
+            target='_blank'
+            className='btn btn-ghost'
+          >
             <FaInstagramSquare className='text-lg' />
-          </button>
+          </a>
         </div>
       </div>
 
