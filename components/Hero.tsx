@@ -18,31 +18,22 @@ export default function Hero() {
 
   const slides = [
     {
-      image:
-        'https://images.unsplash.com/photo-1611270418597-a6c77f4b7271?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1996&q=100',
+      image: '/cdi.jpg',
       alt: 'Food Logo',
       caption:
         'Climate change and adaptation, and capacity development and innovation',
     },
     {
-      image:
-        'https://images.unsplash.com/photo-1624324378932-68e20f332982?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=100',
+      image: '/climate.jpg',
       alt: 'Food Logo',
-      caption:
-        'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore odio, ea eaque sint quasi vel ratione blanditiis.',
     },
     {
-      image:
-        'https://images.unsplash.com/photo-1562089727-90aa996a6f18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=100',
+      image: '/objects.jpg',
       alt: 'Food Logo',
-      caption: ' Lorem ipsum dolor sit amet consectetur adipisicing elit.',
     },
     {
-      image:
-        'https://plus.unsplash.com/premium_photo-1661961617519-ce160a561ee4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=100',
+      image: '/tnp.jpg',
       alt: 'Food Logo',
-      caption:
-        'Climate change and adaptation and capacity development and innovation',
     },
   ]
 
@@ -69,8 +60,11 @@ export default function Hero() {
               src={slide.image}
               width={1000}
               height={1000}
+              blurDataURL='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAsTAAALEwEAmpwYAAAALUlEQVR4nGNgYGBg+H9rgd//J6ujQWww+H9pefv/UzO2IQS+vUv7cud4JogDAMgDEhA+9jbyAAAAAElFTkSuQmCC'
+              placeholder='blur'
               className='w-full h-[30vh] md:h-[calc(100vh-192px)] object-cover'
               alt={slide.alt}
+              style={{ objectFit: 'cover' }}
             />
             {slide?.caption && (
               <div className='mt-20 md:mt-56 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 bg-white/50 w-full text-center h-auto md:h-24 flex  justify-center items-center'>

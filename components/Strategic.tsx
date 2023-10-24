@@ -14,24 +14,28 @@ export default function Strategic() {
       content:
         'The CEFS will collaborate with the Africa Research Institutions, including African Universities. global research bodies and other international research partners on food security, policy, and capacity development and climate change.',
       icon: <FaSearch className='text-4xl md:text-5xl' />,
+      link: '/thematic-areas/research',
     },
     {
       title: 'Academia',
       content:
         'The Centre will develop both short and structured curriculum-based academic training courses and programs in the Food Systems and create knowledge platform. The Centre will make available in all curriculums related to food security.',
       icon: <FaGraduationCap className='text-4xl md:text-5xl' />,
+      link: '/thematic-areas/academia',
     },
     {
       title: 'Capacity Development & Innovation',
       content:
         'The Centre provides services on designing policies and policy frameworks, operational strategies, and plans on productive sectors in Somalia and in the HoA to enable relevant authorities, Ministries, Industries and Academic Institutions to focus on sustainable food systems, climate change and socio-economic development.',
       icon: <FaLayerGroup className='text-4xl md:text-5xl' />,
+      link: '/thematic-areas/cdi',
     },
     {
       title: 'Thematic Networking & Partnership',
       content:
         'The Centre believes the importance of partnership. Sustainable food security systems can only be achieved through effective collaboration, enhanced coordination, and creating synergies of working together.',
       icon: <FaHandshake className='text-4xl md:text-5xl' />,
+      link: '/thematic-areas/tnp',
     },
   ]
   return (
@@ -59,7 +63,7 @@ export default function Strategic() {
                   <h1 className='text-2xl font-bold'>{strategic.title}</h1>
                   <p>{strategic.content}</p>
                   <Link
-                    href='#'
+                    href={strategic.link}
                     className='btn btn-outline btn-ghost border-white text-white mt-5'
                   >
                     Read more...

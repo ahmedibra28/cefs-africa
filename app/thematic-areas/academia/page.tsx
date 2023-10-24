@@ -7,9 +7,10 @@ export default function Page() {
       <div className='flex flex-col md:flex-row-reverse justify-between items-center gap-10'>
         <div className='w-full md:w-1/2'>
           <BlurImage
-            src='https://images.unsplash.com/photo-1600336153113-d66c79de3e91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80'
-            width={300}
-            height={300}
+            src='/academia.jpg'
+            local={true}
+            width={500}
+            height={500}
             alt='Food Logo'
             className='w-full h-[400px] rounded-2xl object-cover duration-700 hover:scale-105 '
           />

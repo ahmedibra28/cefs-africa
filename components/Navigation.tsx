@@ -137,11 +137,12 @@ export default function Navigation() {
 
           <Link href={'/'}>
             <Image
-              src='/upeace.png'
+              src='/logo.png'
               width={300}
               height={300}
-              className='w-auto h-20 md:h-24'
+              className='w-auto h-auto md:h-20 duration-1000'
               alt='Food Logo'
+              style={{ objectFit: 'contain' }}
             />
           </Link>
         </div>
