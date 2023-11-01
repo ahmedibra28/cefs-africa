@@ -38,11 +38,11 @@ export default function Page() {
                 </li>
                 <li>
                   <a
-                    href='https://cefsafricac.com'
+                    href='https://cefsafrica.com'
                     target='_blank'
                     className='flex flex-row items-center gap-x-2'
                   >
-                    <FaGlobe /> https://cefsafricac.com
+                    <FaGlobe /> https://cefsafrica.com
                   </a>
                 </li>
               </ul>
