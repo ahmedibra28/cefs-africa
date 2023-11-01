@@ -18,17 +18,17 @@ export default function Page() {
         <div className='w-full md:w-1/2'>
           <div className='mb-4 text-gray-700 space-y-4'>
             <p>
-              The Center believes the importance of collaboration and
+              1. The Center believes the importance of collaboration and
               partnership. Sustainable food security securities can only be
               achieved through effective collaboration, enhanced coordination,
               and creating synergies of working together.
             </p>
             <p>
-              The Center establishes effective key partners in research, in
+              2. The Center establishes effective key partners in research, in
               academia, and in capacity development and program implementations.
             </p>
             <p>
-              The Center will map out partners and government institutions
+              3. The Center will map out partners and government institutions
               focusing on food securities and climate change and establish areas
               of Sequencing Layering & Integration (SLI)- an integration of
               intentional layering and sequencing of multi-sectoral
@@ -38,12 +38,12 @@ export default function Page() {
               the long-term wellbeing of the people of Somalia.{' '}
             </p>
             <p>
-              The Center will play an effective role in food security
+              4. The Center will play an effective role in food security
               coordination, programing, climate change adaptation and financing
               and policy advice.
             </p>
             <p>
-              The Center will Work together with UN agencies, Bilateral
+              5. The Center will Work together with UN agencies, Bilateral
               institutions, Donors, International organizations, National
               institutions, and Private Sector Actors in the field of food
               securities and climate change.

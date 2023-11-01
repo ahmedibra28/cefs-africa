@@ -22,10 +22,10 @@ export default function Page() {
                 </li>
                 <li className='mb-2'>
                   <a
-                    href='mailto:akhalif@cefsafrica.com'
+                    href='mailto:director@cefsafrica.com'
                     className='flex flex-row items-center gap-x-2'
                   >
-                    <FaEnvelope /> akhalif@cefsafrica.com
+                    <FaEnvelope /> director@cefsafrica.com
                   </a>
                 </li>
                 <li className='mb-2'>
