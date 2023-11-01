@@ -18,28 +18,29 @@ export default function Page() {
         <div className='w-full md:w-1/2'>
           <div className='mb-4 text-gray-700 space-y-4'>
             <p>
-              1. The CEFS will collaborate with the Africa Research
+              The CEFS will collaborate with Africa Research & Innovation
               Institutions, including African Universities, global research
-              bodies and other international research partners on food security,
-              policy, and capacity development and climate change.
-            </p>
-
-            <p>
-              2.The Centre establishes and promotes research areas on climate
-              adaptation, food security, livelihood systems and resilience
-              building through collaboration and working with stakeholders and
-              bringing together global food security experts.
+              bodies, and other international research partners on food
+              security, policy, and capacity development, and climate change
+              adaptation.
             </p>
             <p>
-              3. The Centre explores available food security and climate
-              adaptation data and envisages on how to utilize it to inform
-              decision and transform climate adaptation and agriculture
-              production systems.
+              The Center establishes and promotes research areas on climate
+              adaptation, climate financing, food security, livelihood
+              securities, and resilience building through collaboration and
+              working with stakeholders, and bringing together global food
+              security experts.
             </p>
             <p>
-              4. The Centre conducts research studies, assessments and surveys
-              on food security, climate change and adaptation, the Centre
-              focuses on all productive sectors.
+              The Centre explores available food security and climate adaptation
+              data and envisages how to utilize it to inform decisions, build
+              resilience and transform climate adaptation and agriculture
+              production securities.
+            </p>
+            <p>
+              The Centre conducts research studies, assessments, and surveys on
+              food security, climate change, and adaptation, and focuses on all
+              productive sectors.
             </p>
           </div>
         </div>

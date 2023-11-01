@@ -18,33 +18,35 @@ export default function Page() {
         <div className='w-full md:w-1/2'>
           <div className='mb-4 text-gray-700 space-y-4'>
             <p>
-              1.The Centre believes the importance of partnership. Sustainable
-              food security systems can only be achieved through effective
-              collaboration, enhanced coordination, and creating synergies of
-              working together.
+              The Center believes the importance of collaboration and
+              partnership. Sustainable food security securities can only be
+              achieved through effective collaboration, enhanced coordination,
+              and creating synergies of working together.
             </p>
-
             <p>
-              2.The Centre establishes effective key partners in research, in
-              academia and in capacity development and program implementations.
+              The Center establishes effective key partners in research, in
+              academia, and in capacity development and program implementations.
             </p>
-
             <p>
-              3. The Centre will map out partners and government institutions
-              focusing on food systems and climate change and establish areas of
-              support and collaborations.
+              The Center will map out partners and government institutions
+              focusing on food securities and climate change and establish areas
+              of Sequencing Layering & Integration (SLI)- an integration of
+              intentional layering and sequencing of multi-sectoral
+              interventions and the collaborations of actors in order to prevent
+              or reduce the drivers and effects of shocks and stresses that
+              undermine the food securities and climate adaptation programs and
+              the long-term wellbeing of the people of Somalia.{' '}
             </p>
-
             <p>
-              4. The Centre will play an effective role in food security
-              coordination, programming, and policy advice.
+              The Center will play an effective role in food security
+              coordination, programing, climate change adaptation and financing
+              and policy advice.
             </p>
-
             <p>
-              5. The Centre will work together with UN agencies, Bi-lateral
+              The Center will Work together with UN agencies, Bilateral
               institutions, Donors, International organizations, National
-              institutions, and the private sector in the field of food systems
-              and climate change.
+              institutions, and Private Sector Actors in the field of food
+              securities and climate change.
             </p>
           </div>
         </div>

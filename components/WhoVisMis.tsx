@@ -20,18 +20,19 @@ export default function WhoVisMis() {
             <h1 className='text-lg font-bold text-primary'>Who we are</h1>
             <p className='text-gray-600'>
               The Centre of Excellence that focuses and promotes climate
-              adaptation and integrated food and nutrition systems, we build and
-              unlock natural and socio-economic capitals through knowledge and
-              technology transfer, research innovation, and disseminating
+              adaptation and integrated food and nutrition security, we build
+              and unlock natural and socio-economic capitals through knowledge
+              and technology transfer, research innovation, and disseminating
               information.
             </p>
           </div>
           <div className='mb-2'>
             <h1 className='text-lg font-bold text-primary'>Vision</h1>
             <p className='text-gray-600'>
-              A leading Centre of excellence in research, academia and policy
-              and capacity development in food systems, climate adaptation,
-              innovation and technology transfer for sustainable food security.
+              A leading Centre of Excellence in research, academia, and policy;
+              and capacity development in food security, climate change
+              adaptation, innovation, and technology transfer for sustainable
+              food security.
             </p>
           </div>
           <div className='mb-2'>
@@ -39,10 +40,10 @@ export default function WhoVisMis() {
               Mission Statement
             </h1>
             <p className='text-gray-600'>
-              To contribute to ending drought emergencies, climate adaption,
-              economic development, poverty alleviation, and sustainable,
-              productive sector through knowledge and capacity development,
-              UP-CEFS actions will appropriately inform decision-making.
+              To contribute to ending drought emergencies, economic development,
+              poverty alleviation, and sustainable productive sector through
+              knowledge and capacity development, CEFS-Africa actions will
+              appropriately inform decision-making.
             </p>
           </div>
         </div>

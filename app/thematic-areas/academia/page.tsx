@@ -18,23 +18,21 @@ export default function Page() {
         <div className='w-full md:w-1/2'>
           <div className='mb-4 text-gray-700 space-y-4'>
             <p>
-              1. The Centre will develop both short and structured
-              curriculum-based academic training courses and programs in the
-              Food Systems and create knowledge platform. The Centre will make
-              available in all curriculums related to food security.
+              The Center will develop both short and structured curriculum-based
+              academic training courses and programs in the Food Securities and
+              create knowledge platform. The Center will make available in all
+              curriculums related to food security.
             </p>
-
             <p>
-              2. In Collaboration with University for Peace and other regional
-              and global research institutions and universities, the Centre will
+              In Collaboration with accredited Universities and other regional
+              and global research institutions and universities, the Center will
               enroll postgraduate students and provide technical training in the
-              field of food security and climate change.
+              field of food securities and climate change.
             </p>
-
             <p>
-              3.The Centre will establish and maintain subject matter experts
-              (SME) on food security and climate adaptation as well as the
-              relevant learning technologies.
+              The Center will establish and maintain subject matter experts
+              (SME) on food Securities and climate change adaptation as well as
+              the relevant learning technologies.
             </p>
           </div>
         </div>
