@@ -18,26 +18,26 @@ export default function Page() {
         <div className='w-full md:w-1/2'>
           <div className='mb-4 text-gray-700 space-y-4'>
             <p>
-              Despite the existence of several food securities sustainability
+              Despite the existence of several food systems sustainability
               initiatives under the IGAD region including IGAD specialized
               institutions and IGAD strategy on draught disaster, Resilience and
               Sustainability Initiative (IDDRSI) which aims to end drought
               emergencies and building resilient communities in the IGAD region,
-              specialized Center of Excellences in Food Securities do not exist
+              specialized Center of Excellences in Food Systems do not exist
               with few exceptional cases in some universities.
             </p>
             <p>
-              Therefore, the CEFS-Africa in Food Securities which is the first
-              of its kind in Somalia and in the Africa that serves research,
+              Therefore, the CEFS-Africa in Food Systems which is the first of
+              its kind in Somalia and in the Africa that serves research,
               innovation, teaching, and capacity development Center where
               innovation and information on climate change and adaptation, food
-              security, and nutrition will be nurtured for decision support.
+              system, and nutrition will be nurtured for decision support.
             </p>
             <p>
               The Center promotes climate adaptation and integrated food and
-              nutrition securities, we build and unlock natural and
-              socio-economic capitals through knowledge and technology transfer,
-              research innovation, and disseminating information.
+              nutrition systems, we build and unlock natural and socio-economic
+              capitals through knowledge and technology transfer, research
+              innovation, and disseminating information.
             </p>
           </div>
         </div>

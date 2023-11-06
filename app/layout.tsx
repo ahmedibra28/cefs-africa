@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'CEFS Africa',
-  description: 'Centre of Excellence in Food Security Africa',
+  description: 'Centre of Excellence in Food System Africa',
 }
 
 export default function RootLayout({

@@ -12,28 +12,28 @@ export default function Strategic() {
     {
       title: 'Research',
       content:
-        'The CEFS will collaborate with Africa Research & Innovation Institutions, including African Universities, global research bodies, and other international research partners on food security, policy, and capacity development, and climate change adaptation.',
+        'The CEFS will collaborate with Africa Research & Innovation Institutions, including African Universities, global research bodies, and other international research partners on food system, policy, and capacity development, and climate change adaptation.',
       icon: <FaSearch className='text-4xl md:text-5xl' />,
       link: '/thematic-areas/research',
     },
     {
       title: 'Academia',
       content:
-        'The Center will develop both short and structured curriculum-based academic training courses and programs in the Food Security and create knowledge platform. The Center will make available in all curriculums related to food security.',
+        'The Center will develop both short and structured curriculum-based academic training courses and programs in the Food System and create knowledge platform. The Center will make available in all curriculums related to food system.',
       icon: <FaGraduationCap className='text-4xl md:text-5xl' />,
       link: '/thematic-areas/academia',
     },
     {
       title: 'Capacity Development & Innovation',
       content:
-        'The Center provides services on designing policies and policy frameworks, operational strategies, and plans on productive sectors in Somalia and in the Africa to enable relevant authorities, Ministries, Industries, and Academic research and innovation institutions to focus on sustainable food securities, climate change and socio-economic development.',
+        'The Center provides services on designing policies and policy frameworks, operational strategies, and plans on productive sectors in Somalia and in the Africa to enable relevant authorities, Ministries, Industries, and Academic research and innovation institutions to focus on sustainable food systems, climate change and socio-economic development.',
       icon: <FaLayerGroup className='text-4xl md:text-5xl' />,
       link: '/thematic-areas/cdi',
     },
     {
       title: 'Thematic Networking & Partnership',
       content:
-        'The Centre believes the importance of partnership. Sustainable food security security can only be achieved through effective collaboration, enhanced coordination, and creating synergies of working together.',
+        'The Centre believes the importance of partnership. Sustainable food system system can only be achieved through effective collaboration, enhanced coordination, and creating synergies of working together.',
       icon: <FaHandshake className='text-4xl md:text-5xl' />,
       link: '/thematic-areas/tnp',
     },
@@ -46,9 +46,9 @@ export default function Strategic() {
         </h1>
         <p className='text-center w-full md:w-[80%] mx-auto'>
           These four major areas of focusing will be interlinked to ensure that
-          the big, picture on food securities w we miegatew it at ecsion making
-          evels to ensure sustainabie or tood and nutrition security at
-          grassroots level.
+          the big, picture on food systems w we miegatew it at ecsion making
+          evels to ensure sustainabie or tood and nutrition system at grassroots
+          level.
         </p>
 
         <div className='flex flex-col md:flex-row flex-wrap justify-between gap-5 md:gap-14 my-14'>

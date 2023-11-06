@@ -20,9 +20,9 @@ export default function WhoVisMis() {
             <h1 className='text-lg font-bold text-primary'>Who we are</h1>
             <p className='text-gray-600'>
               The Centre of Excellence that focuses and promotes climate
-              adaptation and integrated food and nutrition security, we build
-              and unlock natural and socio-economic capitals through knowledge
-              and technology transfer, research innovation, and disseminating
+              adaptation and integrated food and nutrition system, we build and
+              unlock natural and socio-economic capitals through knowledge and
+              technology transfer, research innovation, and disseminating
               information.
             </p>
           </div>
@@ -30,9 +30,9 @@ export default function WhoVisMis() {
             <h1 className='text-lg font-bold text-primary'>Vision</h1>
             <p className='text-gray-600'>
               A leading Centre of Excellence in research, academia, and policy;
-              and capacity development in food security, climate change
+              and capacity development in food system, climate change
               adaptation, innovation, and technology transfer for sustainable
-              food security.
+              food system.
             </p>
           </div>
           <div className='mb-2'>

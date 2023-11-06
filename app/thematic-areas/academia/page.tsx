@@ -20,19 +20,19 @@ export default function Page() {
             <p>
               1. The Center will develop both short and structured
               curriculum-based academic training courses and programs in the
-              Food Securities and create knowledge platform. The Center will
-              make available in all curriculums related to food security.
+              Food Systems and create knowledge platform. The Center will make
+              available in all curriculums related to food system.
             </p>
             <p>
               2. In Collaboration with accredited Universities and other
               regional and global research institutions and universities, the
               Center will enroll postgraduate students and provide technical
-              training in the field of food securities and climate change.
+              training in the field of food systems and climate change.
             </p>
             <p>
               3. The Center will establish and maintain subject matter experts
-              (SME) on food Securities and climate change adaptation as well as
-              the relevant learning technologies.
+              (SME) on food Systems and climate change adaptation as well as the
+              relevant learning technologies.
             </p>
           </div>
         </div>

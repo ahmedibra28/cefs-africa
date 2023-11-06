@@ -19,9 +19,9 @@ export default function Page() {
           <div className='mb-4 text-gray-700 space-y-4'>
             <p>
               1. The Center believes the importance of collaboration and
-              partnership. Sustainable food security securities can only be
-              achieved through effective collaboration, enhanced coordination,
-              and creating synergies of working together.
+              partnership. Sustainable food system systems can only be achieved
+              through effective collaboration, enhanced coordination, and
+              creating synergies of working together.
             </p>
             <p>
               2. The Center establishes effective key partners in research, in
@@ -29,16 +29,16 @@ export default function Page() {
             </p>
             <p>
               3. The Center will map out partners and government institutions
-              focusing on food securities and climate change and establish areas
-              of Sequencing Layering & Integration (SLI)- an integration of
+              focusing on food systems and climate change and establish areas of
+              Sequencing Layering & Integration (SLI)- an integration of
               intentional layering and sequencing of multi-sectoral
               interventions and the collaborations of actors in order to prevent
               or reduce the drivers and effects of shocks and stresses that
-              undermine the food securities and climate adaptation programs and
-              the long-term wellbeing of the people of Somalia.{' '}
+              undermine the food systems and climate adaptation programs and the
+              long-term wellbeing of the people of Somalia.{' '}
             </p>
             <p>
-              4. The Center will play an effective role in food security
+              4. The Center will play an effective role in food system
               coordination, programing, climate change adaptation and financing
               and policy advice.
             </p>
@@ -46,7 +46,7 @@ export default function Page() {
               5. The Center will Work together with UN agencies, Bilateral
               institutions, Donors, International organizations, National
               institutions, and Private Sector Actors in the field of food
-              securities and climate change.
+              systems and climate change.
             </p>
           </div>
         </div>

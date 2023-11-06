@@ -32,9 +32,11 @@ export default function Hero() {
       alt: 'Food Logo',
     },
     {
-      image: '/tnp.jpg',
+      image: '/samtec.jpg',
       alt: 'Food Logo',
     },
+    { image: '/mator.jpeg', alt: 'Motor' },
+    { image: '/geel.jpg', alt: 'Geel' },
   ]
 
   return (

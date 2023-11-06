@@ -7,7 +7,7 @@ export default function Page() {
       <div className='flex flex-col md:flex-row-reverse justify-between items-center gap-10'>
         <div className='w-full md:w-1/2'>
           <BlurImage
-            src='/cdi.jpg'
+            src='/samtec.jpg'
             local={true}
             width={500}
             height={500}
@@ -22,17 +22,17 @@ export default function Page() {
               frameworks, operational strategies, and plans on productive
               sectors in Somalia and in the Africa to enable relevant
               authorities, Ministries, Industries, and Academic research and
-              innovation institutions to focus on sustainable food securities,
+              innovation institutions to focus on sustainable food systems,
               climate change and socio-economic development.
             </p>
             <p>
               2. The Center builds the capacities of all stakeholders including
               government Ministries, Local Institutions, and partners to
-              effectively implement food securities programs.
+              effectively implement food systems programs.
             </p>
             <p>
               3. The Center establishes community of practice in Somalia and in
-              the Africa in food securities and climate adaptations.
+              the Africa in food systems and climate adaptations.
             </p>
             <p>
               4. The Center designs and supports enterprise and technology

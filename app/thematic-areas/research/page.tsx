@@ -20,27 +20,25 @@ export default function Page() {
             <p>
               1. The CEFS will collaborate with Africa Research & Innovation
               Institutions, including African Universities, global research
-              bodies, and other international research partners on food
-              security, policy, and capacity development, and climate change
-              adaptation.
+              bodies, and other international research partners on food system,
+              policy, and capacity development, and climate change adaptation.
             </p>
             <p>
               2. The Center establishes and promotes research areas on climate
-              adaptation, climate financing, food security, livelihood
-              securities, and resilience building through collaboration and
-              working with stakeholders, and bringing together global food
-              security experts.
+              adaptation, climate financing, food system, livelihood systems,
+              and resilience building through collaboration and working with
+              stakeholders, and bringing together global food system experts.
             </p>
             <p>
-              3. The Centre explores available food security and climate
+              3. The Centre explores available food system and climate
               adaptation data and envisages how to utilize it to inform
               decisions, build resilience and transform climate adaptation and
-              agriculture production securities.
+              agriculture production systems.
             </p>
             <p>
               4. The Centre conducts research studies, assessments, and surveys
-              on food security, climate change, and adaptation, and focuses on
-              all productive sectors.
+              on food system, climate change, and adaptation, and focuses on all
+              productive sectors.
             </p>
           </div>
         </div>
