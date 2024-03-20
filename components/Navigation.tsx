@@ -143,6 +143,7 @@ export default function Navigation() {
               className='w-auto h-auto md:h-20 duration-1000'
               alt='Food Logo'
               style={{ objectFit: 'contain' }}
+              unoptimized
             />
           </Link>
         </div>

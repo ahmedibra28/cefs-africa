@@ -67,6 +67,7 @@ export default function Hero() {
               className='w-full h-[30vh] md:h-[calc(100vh-192px)] object-cover'
               alt={slide.alt}
               style={{ objectFit: 'cover' }}
+              unoptimized
             />
             {slide?.caption && (
               <div className='mt-20 md:mt-56 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 bg-white/50 w-full text-center h-auto md:h-24 flex  justify-center items-center'>

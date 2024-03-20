@@ -33,6 +33,7 @@ export async function BlurImage({
         className={`${className}`}
         quality={100}
         style={{ objectFit: 'cover' }}
+        unoptimized
       />
     )
   }

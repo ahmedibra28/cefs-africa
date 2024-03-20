@@ -31,6 +31,7 @@ export default function Page() {
                       width={300}
                       height={300}
                       className='w-24 object-contain'
+                      unoptimized
                     />
                   </figure>
                 </div>
