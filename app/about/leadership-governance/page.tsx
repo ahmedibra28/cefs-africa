@@ -6,9 +6,7 @@ export default function Page() {
       <div className='flex flex-col md:flex-row-reverse justify-between items-center gap-10'>
         <div className='w-full'>
           <div className='mb-4 text-gray-600 space-y-4'>
-            <p>
-              CEFS-Africa is an independent Centre led by Board of Directors
-            </p>
+            <p>CEFS-CA is an independent Centre led by Board of Directors</p>
             <p>
               <span className='font-bold text-primary me-1'>
                 Board of Directors (BoD)
@@ -18,7 +16,7 @@ export default function Page() {
               to generate revenue.
             </p>
             <p>
-              CEFS-Africa is led by a
+              CEFS-CA is led by a
               <span className='font-bold text-primary mx-1'>Director </span> who
               is responsible for long-term goals and strategic directions; the
               Director is also the Chief Executive of the day-to-day operations

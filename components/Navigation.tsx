@@ -52,7 +52,7 @@ export default function Navigation() {
   return (
     <Fragment>
       <div className='bg-primary text-white text-center p-1'>
-        <h3>Centre of Excellence in Food System Africa</h3>
+        <h3>Centre of Excellence in Food Systems and Climate Adaptation</h3>
         <div>
           <a
             href='https://facebook.com'

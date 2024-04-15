@@ -27,8 +27,8 @@ export default function Page() {
               with few exceptional cases in some universities.
             </p>
             <p>
-              Therefore, the CEFS-Africa in Food Systems which is the first of
-              its kind in Somalia and in the Africa that serves research,
+              Therefore, the CEFS-CA in Food Systems which is the first of its
+              kind in Somalia and in the Africa that serves research,
               innovation, teaching, and capacity development Center where
               innovation and information on climate change and adaptation, food
               system, and nutrition will be nurtured for decision support.

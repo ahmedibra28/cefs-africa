@@ -42,7 +42,7 @@ export default function WhoVisMis() {
             <p className='text-gray-600'>
               To contribute to ending drought emergencies, economic development,
               poverty alleviation, and sustainable productive sector through
-              knowledge and capacity development, CEFS-Africa actions will
+              knowledge and capacity development, CEFS-CA actions will
               appropriately inform decision-making.
             </p>
           </div>
