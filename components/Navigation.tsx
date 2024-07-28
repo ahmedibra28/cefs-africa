@@ -137,7 +137,7 @@ export default function Navigation() {
 
           <Link href={'/'}>
             <Image
-              src='/logo.png'
+              src='/logo.jpg'
               width={300}
               height={300}
               className='w-auto h-auto md:h-20 duration-1000'

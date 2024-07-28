@@ -19,7 +19,7 @@ export default function Page() {
           <div className='mb-4 text-gray-700 space-y-4'>
             <p>
               1. The Center believes the importance of collaboration and
-              partnership. Sustainable food system systems can only be achieved
+              partnership. Sustainable food systems systems can only be achieved
               through effective collaboration, enhanced coordination, and
               creating synergies of working together.
             </p>

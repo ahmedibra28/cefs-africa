@@ -19,7 +19,7 @@ export default function Strategic() {
     {
       title: 'Academia',
       content:
-        'The Center will develop both short and structured curriculum-based academic training courses and programs in the Food System and create knowledge platform. The Center will make available in all curriculums related to food system.',
+        'The Center will develop both short and structured curriculum-based academic training courses and programs in the food systems and create knowledge platform. The Center will make available in all curriculums related to food system.',
       icon: <FaGraduationCap className='text-4xl md:text-5xl' />,
       link: '/thematic-areas/academia',
     },
@@ -33,7 +33,7 @@ export default function Strategic() {
     {
       title: 'Thematic Networking & Partnership',
       content:
-        'The Centre believes the importance of partnership. Sustainable food system system can only be achieved through effective collaboration, enhanced coordination, and creating synergies of working together.',
+        'The Centre believes the importance of partnership. Sustainable food systems system can only be achieved through effective collaboration, enhanced coordination, and creating synergies of working together.',
       icon: <FaHandshake className='text-4xl md:text-5xl' />,
       link: '/thematic-areas/tnp',
     },

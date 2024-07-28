@@ -27,10 +27,10 @@ export default function Page() {
               2. The Center establishes and promotes research areas on climate
               adaptation, climate financing, food system, livelihood systems,
               and resilience building through collaboration and working with
-              stakeholders, and bringing together global food system experts.
+              stakeholders, and bringing together global food systems experts.
             </p>
             <p>
-              3. The Centre explores available food system and climate
+              3. The Centre explores available food systems and climate
               adaptation data and envisages how to utilize it to inform
               decisions, build resilience and transform climate adaptation and
               agriculture production systems.
